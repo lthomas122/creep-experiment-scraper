@@ -24,3 +24,8 @@ Finally, run the scraper:
 ```
 python scraper.py
 ```
+
+## Additional Info
+Here's a screenshot of the login form request. It requires a POST request with email and password, and then returns a json with session cookies that can be used for authentication.
+
+<img width="1012" height="744" alt="image" src="https://github.com/user-attachments/assets/1ac4ccf7-d379-4235-905b-f96c0ed56e44" />
